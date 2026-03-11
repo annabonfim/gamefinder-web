@@ -108,3 +108,40 @@ Antes de executar o projeto, é necessário ter instalado:
 
 ```bash
 git clone <URL_DO_REPOSITORIO>
+```
+
+### 2. Acesse a pasta do projeto
+
+```bash
+cd gamefinder-web
+```
+
+### 3. Instale as dependências
+
+```bash
+npm install
+```
+
+### 4. Suba o backend
+
+Antes de iniciar o frontend, rode o backend do projeto **Game Finder**.
+
+O backend deve estar funcionando localmente em:
+
+```bash
+http://localhost:8080
+```
+
+### 5. Inicie o frontend
+
+Com o backend já rodando, execute:
+
+```bash
+ng serve
+```
+
+### 6. Acesse a aplicação no navegador
+
+```bash
+http://localhost:4200/
+```
