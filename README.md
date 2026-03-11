@@ -1,4 +1,4 @@
-# GamefinderWeb
+# 🎮 GamefinderWeb
 
 O **GamefinderWeb** é o frontend do projeto **Game Finder**, desenvolvido em **Angular** como parte de uma atividade acadêmica da disciplina de **Java Advanced**.
 
@@ -6,7 +6,7 @@ A proposta da aplicação é permitir que o usuário pesquise um jogo e receba u
 
 ---
 
-## Sobre o projeto
+## 📘 Sobre o projeto
 
 Este repositório contém apenas a parte **frontend/web** da aplicação.
 
@@ -19,7 +19,7 @@ Por isso, o frontend depende do backend rodando ao mesmo tempo para funcionar co
 
 ---
 
-## Objetivo da aplicação
+## 🎯 Objetivo da aplicação
 
 A aplicação foi desenvolvida para permitir que o usuário:
 
@@ -32,7 +32,7 @@ No frontend, a aplicação faz uma chamada para a API do backend, que por sua ve
 
 ---
 
-## Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 ### Frontend
 - Angular
@@ -48,7 +48,7 @@ No frontend, a aplicação faz uma chamada para a API do backend, que por sua ve
 
 ---
 
-## Como a aplicação funciona
+## 🔄 Como a aplicação funciona
 
 O fluxo da aplicação é o seguinte:
 
@@ -67,7 +67,7 @@ O fluxo da aplicação é o seguinte:
 
 ---
 
-## Regra de recomendação
+## ⭐ Regra de recomendação
 
 A recomendação exibida ao usuário é baseada na análise dos dados retornados pelo backend.
 
@@ -86,12 +86,12 @@ Quando o jogo possui:
 Quando o jogo possui:
 - nota **menor que 3.5**
 
-### Dados insuficientes para recomendar
+### ⚠️ Dados insuficientes para recomendar
 Quando a API não retorna informações suficientes para avaliar corretamente o jogo, o sistema informa que não há dados suficientes para recomendar.
 
 ---
 
-## Pré-requisitos
+## 📋 Pré-requisitos
 
 Antes de executar o projeto, é necessário ter instalado:
 
@@ -102,12 +102,12 @@ Antes de executar o projeto, é necessário ter instalado:
 
 ---
 
-## Como executar o projeto
+## 🚀 Como executar o projeto
 
 ### 1. Clone o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/annabonfim/gamefinder-web.git
 ```
 
 ### 2. Acesse a pasta do projeto
